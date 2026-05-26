@@ -1,2 +1,18 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+# Binaries
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Build folders
+bin/
+dist/
+
+# Go
+*.test
+*.out
+
+# IDE
+.vscode/
+.idea/
