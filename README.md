@@ -180,7 +180,7 @@ Görevleri:
 ### Depoyu Klonlayın
 
 ```bash
-git clone https://github.com/kishivante/ssc-packer.git
+git clone https://github.com/scarletsatellite/ssc-packer.git
 cd ssc-packer
 ```
 
