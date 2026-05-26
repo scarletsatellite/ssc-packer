@@ -497,7 +497,7 @@ Features:
 ### Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/ssc-packer.git
+git clone https://github.com/scarletsatellite/ssc-packer.git
 cd ssc-packer
 ```
 
